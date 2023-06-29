@@ -1,0 +1,9 @@
+C:\Users\Анастасия\source\repos\Project2\Project2\Debug\Project2.vcxprojAssemblyReference.cache
+C:\Users\Анастасия\source\repos\Project2\Project2\Debug\Project2.MyForm.resources
+C:\Users\Анастасия\source\repos\Project2\Project2\Debug\Project2.vcxproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\проект1\Project2\Debug\Project2.vcxprojAssemblyReference.cache
+C:\Users\Анастасия\Desktop\проект1\Project2\Debug\Project2.MyForm.resources
+C:\Users\Анастасия\Desktop\проект1\Project2\Debug\Project2.vcxproj.GenerateResource.cache
+C:\Users\Final\Desktop\проект1\Project2\Debug\Project2.vcxprojAssemblyReference.cache
+C:\Users\Final\Desktop\проект1\Project2\Debug\Project2.MyForm.resources
+C:\Users\Final\Desktop\проект1\Project2\Debug\Project2.vcxproj.GenerateResource.cache

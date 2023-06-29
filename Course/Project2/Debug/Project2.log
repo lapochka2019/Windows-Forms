@@ -1,0 +1,19 @@
+﻿  MyForm.cpp
+C:\Users\Final\Desktop\проект1\Project2\MyForm.h(1721,20): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Final\Desktop\проект1\Project2\MyForm.h(1865,20): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Final\Desktop\проект1\Project2\MyForm.h(2024,20): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Final\Desktop\проект1\Project2\MyForm.h(2086,20): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Final\Desktop\проект1\Project2\MyForm.h(2363,20): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Final\Desktop\проект1\Project2\MyForm.h(2394,20): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Final\Desktop\проект1\Project2\MyForm.h(2453,24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Final\Desktop\проект1\Project2\MyForm.h(2683,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Final\Desktop\проект1\Project2\MyForm.h(2851,14): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Final\Desktop\проект1\Project2\MyForm.h(2868,14): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Final\Desktop\проект1\Project2\MyForm.h(2886,14): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Final\Desktop\проект1\Project2\MyForm.h(2984,20): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Final\Desktop\проект1\Project2\MyForm.h(1791): warning C4700: использована неинициализированная локальная переменная "x1"
+C:\Users\Final\Desktop\проект1\Project2\MyForm.h(1807): warning C4700: использована неинициализированная локальная переменная "x1"
+C:\Users\Final\Desktop\проект1\Project2\MyForm.h(1897): warning C4700: использована неинициализированная локальная переменная "x1"
+C:\Users\Final\Desktop\проект1\Project2\MyForm.h(1912): warning C4700: использована неинициализированная локальная переменная "x1"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project2.vcxproj -> C:\Users\Final\Desktop\проект1\Debug\Project2.exe

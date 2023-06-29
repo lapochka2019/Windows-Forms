@@ -1,0 +1,21 @@
+C:\Users\Анастасия\source\repos\Project1\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+C:\Users\Анастасия\source\repos\Project1\Project1\Debug\Project1.MyForm.resources
+C:\Users\Анастасия\source\repos\Project1\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\Project1\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+C:\Users\User\Desktop\Project1\Project1\Debug\Project1.MyForm.resources
+C:\Users\User\Desktop\Project1\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\Новая папка\Экспонента\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+C:\Users\Анастасия\Desktop\Новая папка\Экспонента\Project1\Debug\Project1.MyForm.resources
+C:\Users\Анастасия\Desktop\Новая папка\Экспонента\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\Информатика\Новая папка\Экспонента\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+C:\Users\Анастасия\Desktop\Информатика\Новая папка\Экспонента\Project1\Debug\Project1.MyForm.resources
+C:\Users\Анастасия\Desktop\Информатика\Новая папка\Экспонента\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Final\Desktop\Экспонента Катя\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+C:\Users\Final\Desktop\Экспонента Катя\Project1\Debug\Project1.MyForm.resources
+C:\Users\Final\Desktop\Экспонента Катя\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Final\Desktop\Экспонента\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+C:\Users\Final\Desktop\Экспонента\Project1\Debug\Project1.MyForm.resources
+C:\Users\Final\Desktop\Экспонента\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Final\Desktop\1 курс\Экспонента1\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+C:\Users\Final\Desktop\1 курс\Экспонента1\Project1\Debug\Project1.MyForm.resources
+C:\Users\Final\Desktop\1 курс\Экспонента1\Project1\Debug\Project1.vcxproj.GenerateResource.cache

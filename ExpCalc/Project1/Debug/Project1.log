@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+C:\Users\Final\Desktop\1 курс\Экспонента1\Project1\MyForm.h(571,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Final\Desktop\1 курс\Экспонента1\Project1\MyForm.h(572,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Final\Desktop\1 курс\Экспонента1\Project1\MyForm.h(576,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Final\Desktop\1 курс\Экспонента1\Project1\MyForm.h(577,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Final\Desktop\1 курс\Экспонента1\Project1\MyForm.h(571): warning C4700: использована неинициализированная локальная переменная "x1"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> C:\Users\Final\Desktop\1 курс\Экспонента1\Debug\Project1.exe

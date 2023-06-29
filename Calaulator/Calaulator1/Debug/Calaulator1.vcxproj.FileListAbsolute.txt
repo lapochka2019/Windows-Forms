@@ -1,0 +1,3 @@
+C:\Users\lapte\source\repos\Calaulator1\Calaulator1\Debug\Calaulator1.vcxprojAssemblyReference.cache
+C:\Users\lapte\source\repos\Calaulator1\Calaulator1\Debug\Calaulator1.MyForm.resources
+C:\Users\lapte\source\repos\Calaulator1\Calaulator1\Debug\Calaulator1.vcxproj.GenerateResource.cache

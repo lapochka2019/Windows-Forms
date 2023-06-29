@@ -1,0 +1,24 @@
+C:\Users\Анастасия\source\repos\Project1\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+C:\Users\Анастасия\source\repos\Project1\Project1\Debug\Project1.MyForm.resources
+C:\Users\Анастасия\source\repos\Project1\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\Project1\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+C:\Users\User\Desktop\Project1\Project1\Debug\Project1.MyForm.resources
+C:\Users\User\Desktop\Project1\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\Экспонента\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+C:\Users\User\Desktop\Экспонента\Project1\Debug\Project1.MyForm.resources
+C:\Users\User\Desktop\Экспонента\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\Была экспонента станет массивы\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+C:\Users\Анастасия\Desktop\Была экспонента станет массивы\Project1\Debug\Project1.MyForm.resources
+C:\Users\Анастасия\Desktop\Была экспонента станет массивы\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\Была экспонента станет массивы\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+C:\Users\User\Desktop\Была экспонента станет массивы\Project1\Debug\Project1.MyForm.resources
+C:\Users\User\Desktop\Была экспонента станет массивы\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\Массивы\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+C:\Users\Анастасия\Desktop\Массивы\Project1\Debug\Project1.MyForm.resources
+C:\Users\Анастасия\Desktop\Массивы\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Final\Desktop\Массивы\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+C:\Users\Final\Desktop\Массивы\Project1\Debug\Project1.MyForm.resources
+C:\Users\Final\Desktop\Массивы\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Final\Desktop\Настенька\Массивы\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+C:\Users\Final\Desktop\Настенька\Массивы\Project1\Debug\Project1.MyForm.resources
+C:\Users\Final\Desktop\Настенька\Массивы\Project1\Debug\Project1.vcxproj.GenerateResource.cache

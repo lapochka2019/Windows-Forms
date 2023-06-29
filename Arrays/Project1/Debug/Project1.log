@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+C:\Users\Final\Desktop\Настенька\Массивы\Project1\MyForm.h(758,7): warning C4101: x1: неиспользованная локальная переменная
+C:\Users\Final\Desktop\Настенька\Массивы\Project1\MyForm.h(802,21): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Final\Desktop\Настенька\Массивы\Project1\MyForm.h(859,21): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Final\Desktop\Настенька\Массивы\Project1\MyForm.h(732): warning C4700: использована неинициализированная локальная переменная "x1"
+C:\Users\Final\Desktop\Настенька\Массивы\Project1\MyForm.h(747): warning C4700: использована неинициализированная локальная переменная "x1"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> C:\Users\Final\Desktop\Настенька\Массивы\Debug\Project1.exe
